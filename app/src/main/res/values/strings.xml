@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">safetyfirst</string>
+    <string name="sos">SOS</string>
+    <string name="in_case_of_emergency_keep_telling_family_members_to_contact_me">In case of emergency keep telling family members to contact me</string>
+    <string name="guard">GUARD</string>
+    <string name="open_when_you_are_on_a_potentially_dangerous_journey">open when you are on a potentially dangerous journey</string>
+    <string name="Security" />
+    <string name="IC_guard">Guard</string>
+    <string name="profile">profile</string>
+    <string name="dashboard">dashboard</string>
+    <string name="home">Home</string>
+    <string name="Profile" />
+    <string name="Dashboard" />
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="ic_guard" />
+    <string name="Safetyfirst" />
+    <string name="safety_first">Safety first</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="openscreen">openscreen</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="neha">Neha</string>
+    <string name="Neha" />
+    <string name="wifi">WIFI</string>
+    <string name="_223m">223M</string>
+    <string name="_16_40">16:40</string>
+    <string name="_90">90%</string>
+    <string name="d_19_gali_no_1_pratap_nagar_saboli_delhi_110093">d-19 gali no-1 pratap nagar saboli delhi 110093</string>
+    <string name="d_19_gali_no_1" />
+</resources>
